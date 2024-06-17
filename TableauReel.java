@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class TableauReel  {
            public static void main(String[] args) {
             // Déclaration et initialisation du tableau de nombres réels
